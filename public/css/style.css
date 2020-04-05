@@ -1,0 +1,90 @@
+.avatar{
+    width:55px;
+    margin-bottom: 15px;
+}
+
+.container-avatar img{
+    width:35px;
+    height:35px;
+    border-radius: 900px;
+    overflow: hidden;
+    float:left !important;
+    margin-right:10px;
+}
+
+.container-avatar p{
+    font-weight: bold;
+    line-height: 35px;
+}
+
+
+.nickname{
+    color:gray;
+}
+
+.card{
+    margin-bottom:25px;
+}
+
+.image-container{
+    max-height:400px;
+    overflow: hidden;
+    width:100%;
+}
+
+.image-container--detail{
+    max-height:500px;
+}
+
+.image-container img{
+    width:100%;
+}
+
+.card .image{
+    padding:0px;
+}
+
+.description{
+    padding:20px;
+    padding-bottom:0px;
+}
+
+.btn-comments{
+    margin:20px;
+    margin-top:0px;
+}
+
+.likes{
+    float:left;
+    padding:20px;
+    padding-top:0px;
+}
+
+.likes img,
+.comments img{
+    width:20px;
+    padding-bottom:10px;
+}
+.image-detail .comments{
+    padding:20px;
+}
+.data-user{
+    height:200px;
+    margin-bottom: 20px;
+}
+.data-user .container-avatar{
+    width:200px;
+    height:200px;
+    border-radius: 900px;
+    overflow:hidden;
+    float:left;
+}
+.data-user .container-avatar img{
+    width:100%;
+    height:100%;
+}
+.data-user .user-info{
+    float: left;
+    padding-left: 30px;
+    padding-top: 30px;
+}
